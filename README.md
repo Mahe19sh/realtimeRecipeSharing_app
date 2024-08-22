@@ -37,3 +37,6 @@
          - Navigate to frontend directory : 'cd recipe-app'
          - Install dependencies : 'npm install'
          - Run the react developent server : 'npm start'.
+
+### Contribution 
+    Contributors are welcome! anyone can submit a pull requests with their unique improvements.
