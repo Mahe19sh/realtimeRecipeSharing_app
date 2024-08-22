@@ -4,5 +4,8 @@
 ### The overall system design for online cooking recipe sharing chat app.
 
 1. **Architecture overview**
+     - Frontend : Reactjs for user interface.
+     - Backend : Django for RestAPI and websocket communication.
+     - Database : PostgreSQL , a RDBMS for storing recipes and chat messages.
 
 
