@@ -40,3 +40,6 @@
 
 ### Contribution 
     Contributors are welcome! anyone can submit a pull requests with their unique improvements.
+
+### License 
+    This project is licensed under MIT license.
