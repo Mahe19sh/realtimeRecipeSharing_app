@@ -29,5 +29,11 @@
         - cd realTimeRecipeSharing_app
 
      2.  Backend Setup
-         - 
-        - 
+         - Install dependicies : using 'pip install -r requirements.txt'
+         - Migrate the database : 'python manage.py migrate'
+         - Run the Django server : 'python manage.py runserver'
+       
+     3.  Frontend Setup
+         - Navigate to frontend directory : 'cd recipe-app'
+         - Install dependencies : 'npm install'
+         - Run the react developent server : 'npm start'.
