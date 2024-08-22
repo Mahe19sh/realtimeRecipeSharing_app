@@ -25,8 +25,8 @@
 
 3. **Installation and Setup** :
      1. Clone the repository
-        - https://github.com/Mahe19sh/realtimeRecipeSharing_app.git
-          cd realTimeRecipeSharing_app
+        - git clone https://github.com/Mahe19sh/realtimeRecipeSharing_app.git
+        - cd realTimeRecipeSharing_app
 
      2. Backend Setup
         - 
