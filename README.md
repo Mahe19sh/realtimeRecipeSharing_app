@@ -22,3 +22,11 @@
        - Serializaers : Converts models to JSON format.
        - Views : Handles RestAPI requests for recipes.
        - Consumer : Handle WebSocket communication.
+
+3. **Installation and Setup** :
+     1. Clone the repository
+        - https://github.com/Mahe19sh/realtimeRecipeSharing_app.git
+          cd realTimeRecipeSharing_app
+
+     2. Backend Setup
+        - 
