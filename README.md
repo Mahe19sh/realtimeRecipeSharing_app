@@ -28,5 +28,6 @@
         - git clone https://github.com/Mahe19sh/realtimeRecipeSharing_app.git
         - cd realTimeRecipeSharing_app
 
-     2. Backend Setup
+     2.  Backend Setup
+         - 
         - 
